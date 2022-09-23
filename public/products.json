@@ -1,0 +1,43 @@
+[
+    {
+      "id": "623dff7672dc54e9dfb02852",
+      "price": "$1,585",
+      "img": "https://i.ibb.co/BZwqvp4/images-1.jpg",
+      "name": "Red Stylish Hodi",
+      "description": "Red Stylish Hodi",
+      "color": "Red",
+      "size": "M",
+      "quantity": "0"
+    },
+    {
+      "id": "623dff760e4643d52d9051e1",
+      "price": "$573",
+      "img": "https://i.ibb.co/rxvj2XZ/download-3.jpg",
+      "name": "White Stylish Hodi",
+      "description": "White Stylish Hodi",
+      "color": "White",
+      "size": "L",
+      "quantity": "0"
+      
+    },
+    {
+      "id": "623dff76214542bf5a0ec971",
+      "price": "$847",
+      "img": "https://i.ibb.co/2ggjjTy/download-2.jpg",
+      "name": "Black Stylish Hodi",
+      "description": "Black Stylish Hodi",
+      "color": "Black",
+      "size": "XL",
+      "quantity": "0"
+    },
+    {
+      "id": "623dff765504eca0aeb49f79",
+      "price": "$1,947",
+      "img": "https://i.ibb.co/vB6HMKd/download-1.jpg",
+      "name": "Maroon Stylish Hodi",
+      "description": "Maroon Stylish Hodi",
+      "color": "Maroon",
+      "size": "XXL",
+      "quantity": "0"
+    }
+  ]
